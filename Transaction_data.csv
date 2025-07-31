@@ -1,0 +1,101 @@
+CustomerID,CustomerType,Country,PEP,Sanctioned,Age,AccountType,Industry,AccountTenureMonths,SourceOfFunds,TransactionVolumeCategory,Gender,Occupation,LinkedAccounts,PEPRelationship,TaxResidency,SourceOfWealth,CustomerRiskRating,AdverseMediaFlag,AccountStatus,SanctionsMatchType
+CUST0001,Individual,UK,0,0,58,Checking,Corporate Services,43,Other,High,Other,Doctor,3,None,Domestic,Inheritance,High,0,Active,None
+CUST0002,Corporate,US,0,0,40,Corporate,Retail,203,Salary,Low,Not Applicable,Corporate Employee,4,None,Domestic,Inheritance,Low,0,Active,None
+CUST0003,Corporate,UK,0,0,40,Corporate,Other,115,Investment,High,Not Applicable,Corporate Employee,4,None,Domestic,Inheritance,Low,0,Active,None
+CUST0004,Individual,US,0,0,66,Checking,Corporate Services,111,Salary,Medium,Female,Other,1,None,Domestic,Savings,Low,0,Closed,None
+CUST0005,Individual,LowRiskCountry,0,0,37,Checking,Corporate Services,151,Other,Low,Other,Other,2,None,Domestic,Other,Medium,0,Active,None
+CUST0006,Individual,UK,0,0,65,Savings,Corporate Services,183,Business Income,Medium,Female,Unemployed,3,None,Domestic,Inheritance,Low,0,Active,None
+CUST0007,Individual,US,0,0,42,Savings,Corporate Services,80,Investment,Medium,Male,Engineer,1,None,Domestic,Other,Low,0,Active,None
+CUST0008,Corporate,HighRiskCountry,0,0,40,Corporate,Retail,95,Salary,Medium,Not Applicable,Corporate Employee,2,None,Domestic,Savings,Low,0,Active,None
+CUST0009,Individual,UK,0,0,30,Savings,Corporate Services,203,Salary,Medium,Female,Unemployed,1,None,Domestic,Inheritance,Low,0,Active,None
+CUST0010,Corporate,UK,0,0,40,Corporate,Other,118,Investment,Low,Not Applicable,Corporate Employee,4,None,Foreign,Business,Low,0,Active,None
+CUST0011,Individual,UK,0,0,66,Savings,Corporate Services,144,Business Income,Medium,Male,Doctor,2,None,Domestic,Savings,Medium,0,Active,None
+CUST0012,Corporate,UK,0,0,40,Corporate,Finance,8,Business Income,High,Not Applicable,Corporate Employee,1,None,Domestic,Business,High,0,Active,None
+CUST0013,Corporate,LowRiskCountry,0,0,40,Corporate,Manufacturing,132,Business Income,Low,Not Applicable,Corporate Employee,1,None,Domestic,Other,High,0,Active,None
+CUST0014,Individual,HighRiskCountry,0,0,58,Checking,Corporate Services,104,Other,Medium,Male,Other,3,None,Foreign,Other,Medium,0,Active,None
+CUST0015,Individual,US,0,0,36,Savings,Corporate Services,132,Salary,Low,Male,Doctor,1,None,Domestic,Savings,Low,0,Active,None
+CUST0016,Individual,HighRiskCountry,0,0,29,Savings,Corporate Services,184,Salary,Low,Other,Teacher,2,None,Foreign,Other,Medium,0,Active,None
+CUST0017,Individual,HighRiskCountry,0,0,26,Checking,Corporate Services,25,Salary,Medium,Female,Teacher,2,None,Domestic,Business,Low,0,Active,None
+CUST0018,Individual,UK,0,0,24,Savings,Corporate Services,195,Other,Medium,Male,Other,3,None,Foreign,Inheritance,Low,0,Active,None
+CUST0019,Individual,HighRiskCountry,0,0,45,Savings,Corporate Services,96,Salary,Low,Other,Retired,2,None,Domestic,Inheritance,Low,0,Active,None
+CUST0020,Individual,US,0,0,31,Checking,Corporate Services,195,Other,Medium,Female,Engineer,4,None,Foreign,Inheritance,Low,0,Active,None
+CUST0021,Individual,HighRiskCountry,0,0,48,Savings,Corporate Services,155,Business Income,Low,Male,Teacher,2,None,Domestic,Savings,Medium,0,Active,None
+CUST0022,Individual,HighRiskCountry,0,0,69,Checking,Corporate Services,93,Investment,Low,Female,Other,2,None,Domestic,Other,Low,0,Active,None
+CUST0023,Individual,UK,0,0,36,Savings,Corporate Services,160,Salary,Low,Other,Other,1,None,Domestic,Business,Low,0,Active,None
+CUST0024,Individual,UK,0,0,64,Checking,Corporate Services,178,Salary,Low,Male,Doctor,1,None,Domestic,Other,Low,0,Active,None
+CUST0025,Individual,UK,0,0,33,Checking,Corporate Services,61,Business Income,Low,Female,Retired,2,None,Domestic,Other,High,0,Dormant,None
+CUST0026,Corporate,US,0,0,40,Corporate,Retail,122,Investment,Medium,Not Applicable,Corporate Employee,3,None,Foreign,Other,Low,0,Active,None
+CUST0027,Individual,HighRiskCountry,1,0,22,Savings,Corporate Services,51,Other,Medium,Female,Unemployed,1,None,Foreign,Inheritance,Low,0,Active,None
+CUST0028,Individual,HighRiskCountry,0,0,52,Checking,Corporate Services,147,Investment,Low,Other,Doctor,3,None,Domestic,Business,Low,0,Active,None
+CUST0029,Individual,UK,0,0,29,Savings,Corporate Services,21,Business Income,High,Other,Teacher,2,None,Domestic,Business,Medium,0,Active,None
+CUST0030,Individual,US,0,0,42,Savings,Corporate Services,5,Business Income,Medium,Male,Teacher,2,None,Domestic,Other,Low,0,Active,None
+CUST0031,Individual,US,0,0,69,Savings,Corporate Services,210,Investment,Low,Female,Doctor,4,None,Domestic,Inheritance,Low,0,Dormant,None
+CUST0032,Individual,UK,0,0,38,Savings,Corporate Services,92,Other,High,Male,Other,1,None,Domestic,Inheritance,Low,0,Active,None
+CUST0033,Individual,UK,0,0,53,Checking,Corporate Services,170,Other,High,Male,Teacher,2,None,Domestic,Business,Low,0,Active,None
+CUST0034,Corporate,UK,0,0,40,Corporate,Other,61,Salary,Low,Not Applicable,Corporate Employee,4,None,Domestic,Inheritance,Low,0,Active,None
+CUST0035,Corporate,LowRiskCountry,0,0,40,Corporate,Other,22,Other,Low,Not Applicable,Corporate Employee,1,None,Domestic,Inheritance,Low,0,Dormant,None
+CUST0036,Corporate,UK,0,0,40,Corporate,Other,149,Investment,High,Not Applicable,Corporate Employee,2,None,Domestic,Inheritance,High,0,Active,None
+CUST0037,Individual,US,0,0,74,Checking,Corporate Services,70,Business Income,Medium,Other,Teacher,2,None,Domestic,Savings,Low,0,Active,None
+CUST0038,Individual,HighRiskCountry,0,0,56,Savings,Corporate Services,1,Salary,Low,Male,Unemployed,1,None,Domestic,Other,Low,0,Active,None
+CUST0039,Individual,UK,0,0,62,Checking,Corporate Services,133,Salary,Medium,Male,Engineer,1,None,Domestic,Business,High,0,Active,None
+CUST0040,Individual,LowRiskCountry,0,0,70,Savings,Corporate Services,233,Business Income,High,Other,Engineer,1,None,Foreign,Business,Low,1,Closed,None
+CUST0041,Individual,LowRiskCountry,0,0,59,Savings,Corporate Services,12,Other,Medium,Female,Doctor,2,None,Domestic,Savings,Low,0,Closed,None
+CUST0042,Individual,UK,1,0,56,Checking,Corporate Services,90,Business Income,Medium,Other,Doctor,2,Close Associate,Domestic,Other,Low,0,Active,None
+CUST0043,Individual,US,0,0,31,Savings,Corporate Services,46,Other,High,Other,Unemployed,4,None,Domestic,Business,Low,0,Closed,None
+CUST0044,Corporate,UK,0,0,40,Corporate,Finance,34,Business Income,Low,Not Applicable,Corporate Employee,3,None,Domestic,Inheritance,High,0,Active,None
+CUST0045,Individual,UK,0,0,22,Savings,Corporate Services,177,Investment,Low,Male,Engineer,1,None,Foreign,Business,Low,0,Dormant,None
+CUST0046,Individual,UK,0,0,52,Savings,Corporate Services,78,Other,Medium,Other,Unemployed,2,None,Domestic,Inheritance,Medium,0,Active,None
+CUST0047,Individual,US,0,0,40,Savings,Corporate Services,218,Investment,High,Male,Doctor,2,None,Domestic,Savings,Low,0,Active,None
+CUST0048,Individual,US,1,0,46,Checking,Corporate Services,45,Salary,Low,Male,Doctor,1,None,Domestic,Inheritance,Low,0,Active,None
+CUST0049,Individual,UK,1,0,60,Savings,Corporate Services,155,Business Income,Medium,Male,Engineer,3,None,Foreign,Business,Low,1,Active,None
+CUST0050,Individual,UK,0,0,28,Savings,Corporate Services,73,Salary,Medium,Female,Retired,1,None,Foreign,Business,Low,1,Active,None
+CUST0051,Corporate,LowRiskCountry,0,0,40,Corporate,Manufacturing,26,Salary,Low,Not Applicable,Corporate Employee,3,None,Domestic,Business,Low,0,Active,None
+CUST0052,Corporate,UK,0,0,40,Corporate,IT,47,Salary,Medium,Not Applicable,Corporate Employee,2,None,Domestic,Savings,Medium,0,Active,None
+CUST0053,Corporate,UK,0,0,40,Corporate,Manufacturing,121,Salary,High,Not Applicable,Corporate Employee,3,None,Domestic,Savings,Low,0,Active,None
+CUST0054,Corporate,US,0,0,40,Corporate,Manufacturing,214,Business Income,Medium,Not Applicable,Corporate Employee,4,None,Foreign,Other,High,0,Active,None
+CUST0055,Individual,LowRiskCountry,0,0,27,Savings,Corporate Services,239,Salary,Medium,Other,Doctor,2,None,Domestic,Business,Low,0,Active,None
+CUST0056,Corporate,UK,0,0,40,Corporate,Retail,56,Business Income,Low,Not Applicable,Corporate Employee,4,None,Foreign,Inheritance,Medium,0,Closed,None
+CUST0057,Individual,US,0,0,34,Savings,Corporate Services,94,Business Income,Medium,Male,Retired,1,None,Domestic,Savings,Medium,0,Active,None
+CUST0058,Individual,HighRiskCountry,0,0,55,Savings,Corporate Services,107,Investment,Low,Female,Unemployed,1,None,Domestic,Business,Medium,0,Active,None
+CUST0059,Individual,UK,0,0,24,Savings,Corporate Services,63,Other,Low,Other,Other,1,None,Domestic,Business,Medium,0,Active,None
+CUST0060,Individual,HighRiskCountry,0,0,63,Checking,Corporate Services,48,Other,Medium,Female,Unemployed,3,None,Domestic,Savings,Medium,0,Dormant,None
+CUST0061,Individual,UK,0,0,30,Checking,Corporate Services,61,Business Income,Low,Female,Other,2,None,Domestic,Other,Low,0,Active,None
+CUST0062,Individual,US,1,0,57,Checking,Corporate Services,81,Investment,Low,Other,Teacher,1,Family,Domestic,Savings,Low,0,Active,None
+CUST0063,Corporate,US,0,0,40,Corporate,Retail,26,Business Income,Medium,Not Applicable,Corporate Employee,1,None,Domestic,Savings,Low,0,Active,None
+CUST0064,Individual,US,0,0,26,Checking,Corporate Services,36,Business Income,Low,Other,Engineer,2,None,Domestic,Inheritance,High,1,Dormant,None
+CUST0065,Individual,UK,0,0,67,Checking,Corporate Services,1,Business Income,Low,Female,Unemployed,1,None,Domestic,Inheritance,Low,0,Active,None
+CUST0066,Individual,HighRiskCountry,0,0,44,Checking,Corporate Services,8,Investment,Medium,Other,Doctor,4,None,Domestic,Other,Medium,0,Active,None
+CUST0067,Individual,UK,0,0,19,Checking,Corporate Services,113,Other,Medium,Male,Unemployed,2,None,Foreign,Business,Low,0,Active,None
+CUST0068,Corporate,UK,0,0,40,Corporate,Manufacturing,99,Investment,Low,Not Applicable,Corporate Employee,2,None,Foreign,Savings,Low,0,Dormant,None
+CUST0069,Individual,UK,0,0,46,Savings,Corporate Services,180,Salary,High,Other,Retired,2,None,Foreign,Other,Low,0,Active,None
+CUST0070,Corporate,US,0,0,40,Corporate,Retail,207,Investment,Low,Not Applicable,Corporate Employee,4,None,Foreign,Inheritance,Low,0,Active,None
+CUST0071,Corporate,US,0,0,40,Corporate,IT,47,Investment,Medium,Not Applicable,Corporate Employee,2,None,Domestic,Savings,Low,0,Dormant,None
+CUST0072,Individual,UK,0,0,36,Checking,Corporate Services,127,Investment,Medium,Female,Teacher,4,None,Domestic,Business,Low,0,Active,None
+CUST0073,Individual,US,0,0,25,Checking,Corporate Services,56,Investment,High,Male,Teacher,2,None,Domestic,Inheritance,Low,0,Active,None
+CUST0074,Corporate,UK,0,0,40,Corporate,Manufacturing,214,Other,Medium,Not Applicable,Corporate Employee,3,None,Domestic,Inheritance,Low,0,Active,None
+CUST0075,Corporate,US,0,0,40,Corporate,Manufacturing,14,Salary,Medium,Not Applicable,Corporate Employee,1,None,Domestic,Inheritance,Low,0,Active,None
+CUST0076,Corporate,UK,0,0,40,Corporate,Retail,218,Other,Medium,Not Applicable,Corporate Employee,3,None,Foreign,Other,Low,0,Active,None
+CUST0077,Corporate,US,0,0,40,Corporate,Retail,28,Other,Low,Not Applicable,Corporate Employee,1,None,Domestic,Business,Medium,0,Active,None
+CUST0078,Individual,UK,0,0,69,Checking,Corporate Services,215,Investment,Low,Male,Teacher,4,None,Domestic,Savings,Low,0,Active,None
+CUST0079,Individual,LowRiskCountry,0,0,34,Checking,Corporate Services,78,Business Income,Medium,Male,Teacher,3,None,Domestic,Other,Low,0,Active,None
+CUST0080,Individual,UK,0,0,24,Checking,Corporate Services,216,Business Income,Low,Other,Doctor,2,None,Domestic,Other,Low,0,Closed,None
+CUST0081,Corporate,UK,0,0,40,Corporate,Finance,130,Other,Medium,Not Applicable,Corporate Employee,1,None,Domestic,Other,Low,0,Active,None
+CUST0082,Individual,UK,0,0,62,Savings,Corporate Services,109,Other,Low,Female,Retired,1,None,Domestic,Inheritance,Low,0,Closed,None
+CUST0083,Individual,LowRiskCountry,0,0,21,Checking,Corporate Services,154,Investment,Medium,Female,Unemployed,3,None,Foreign,Business,Low,0,Active,None
+CUST0084,Individual,HighRiskCountry,0,0,53,Checking,Corporate Services,14,Other,Low,Female,Unemployed,4,None,Domestic,Other,Low,0,Dormant,None
+CUST0085,Individual,UK,0,0,23,Savings,Corporate Services,187,Investment,Low,Male,Other,3,None,Domestic,Savings,Low,0,Active,None
+CUST0086,Individual,US,0,0,48,Checking,Corporate Services,56,Business Income,Medium,Male,Other,4,None,Foreign,Business,Low,1,Active,None
+CUST0087,Corporate,HighRiskCountry,0,0,40,Corporate,Other,115,Business Income,Medium,Not Applicable,Corporate Employee,4,None,Foreign,Savings,Medium,0,Active,None
+CUST0088,Individual,US,0,0,61,Savings,Corporate Services,7,Salary,Medium,Male,Teacher,1,None,Foreign,Business,Medium,0,Dormant,None
+CUST0089,Corporate,US,0,0,40,Corporate,Manufacturing,3,Business Income,Low,Not Applicable,Corporate Employee,3,None,Foreign,Savings,Low,0,Active,None
+CUST0090,Individual,UK,0,0,56,Savings,Corporate Services,111,Other,Low,Male,Retired,3,None,Domestic,Inheritance,Low,0,Active,None
+CUST0091,Individual,UK,0,1,44,Savings,Corporate Services,151,Business Income,Medium,Female,Doctor,4,None,Domestic,Other,Low,0,Active,Partial
+CUST0092,Corporate,HighRiskCountry,0,0,40,Corporate,Finance,238,Investment,Low,Not Applicable,Corporate Employee,3,None,Domestic,Savings,Low,0,Active,None
+CUST0093,Corporate,LowRiskCountry,0,0,40,Corporate,IT,107,Business Income,Medium,Not Applicable,Corporate Employee,2,None,Domestic,Business,High,0,Active,None
+CUST0094,Individual,US,0,0,36,Checking,Corporate Services,239,Salary,Medium,Male,Other,2,None,Domestic,Other,Low,0,Active,None
+CUST0095,Corporate,UK,0,0,40,Corporate,Other,237,Business Income,Medium,Not Applicable,Corporate Employee,3,None,Domestic,Other,Low,0,Active,None
+CUST0096,Individual,UK,0,0,20,Savings,Corporate Services,18,Investment,Medium,Other,Engineer,3,None,Domestic,Business,Low,0,Active,None
+CUST0097,Individual,HighRiskCountry,0,0,62,Savings,Corporate Services,38,Investment,High,Male,Teacher,4,None,Domestic,Savings,Medium,0,Active,None
+CUST0098,Individual,HighRiskCountry,0,0,30,Checking,Corporate Services,227,Other,High,Male,Other,2,None,Domestic,Inheritance,Low,1,Active,None
+CUST0099,Individual,HighRiskCountry,0,0,67,Savings,Corporate Services,115,Business Income,Low,Female,Doctor,2,None,Domestic,Inheritance,Low,0,Active,None
+CUST0100,Individual,HighRiskCountry,0,0,45,Savings,Corporate Services,15,Investment,Low,Other,Other,1,None,Domestic,Savings,Low,0,Active,None

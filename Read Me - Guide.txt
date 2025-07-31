@@ -1,0 +1,69 @@
+AML SQL Queries for Transaction Monitoring using Synthetic Data:-
+
+Welcome to this repository of SQL queries designed for Anti-Money Laundering (AML) transaction monitoring and risk analysis using synthetic data. This README says about each SQL queries which are designed to support Anti-Money Laundering (AML) transaction monitoring and risk analysis using synthetic transaction data. The queries facilitate:
+
+1. "High-Risk Customer Identification"  
+   
+This SQL query identifies customers flagged as "High" risk in `CustomerRiskRating`, flagged as Politically Exposed Persons (PEP), or belonging to high-risk countries. 
+
+Purpose: 
+To enable compliance teams to rapidly detect customers requiring enhanced monitoring and due diligence for anti-money laundering (AML) controls.
+
+Usage:  
+- Replace `Transaction_data` with your actual table name.  
+- Run the query in your SQL environment to generate a list of high-risk customers for AML investigations.
+
+2. "Source of Funds/Wealth Audit"
+   
+This SQL query aggregates and analyzes customers by `SourceOfFunds` and `SourceOfWealth`, with an emphasis on identifying sources common among high-risk customers.
+
+Purpose:  
+To support suspicious activity detection by verifying whether sources of funds and wealth align with customer risk profiles and identifying unusual patterns.
+
+Usage:
+- Adjust table and column names as required.  
+- Execute to produce reports aiding AML due diligence and investigative efforts.
+
+
+3. "Transaction Volume Risk Segmentation"
+
+This SQL query segments customers with a "High" transaction volume category and cross-tabulates results with `CustomerRiskRating`, `Occupation`, and `Industry`.
+
+Purpose:
+To profile customers by transaction volume and other key attributes, helping flag unusual or risky transactional behavior for further review.
+
+Usage:
+- Update table references according to your schema.  
+- Use for profiling and prioritizing investigations in transaction monitoring systems.
+
+4. "Geographic Exposure Risk"
+
+This SQL query creates summary tables breaking down customers and their risk levels by `Country`, focusing on flagged high- and low-risk geographic zones.
+
+Purpose:  
+To assist in geographic risk assessment and regulatory compliance by highlighting risk concentrations associated with customer locations.
+
+Usage:
+- Replace table names as needed.  
+- Utilize the query to inform geographic-focused risk monitoring and resource allocation efforts.
+
+
+## Scenario / Use Case
+
+These scripts are intended for financial institutions, AML analysts, and data professionals developing or testing transaction monitoring systems using synthetic data. The example queries demonstrate how to identify customer risk profiles, analyze transactional behavior, and evaluate geographic exposure risk, enabling compliance-driven investigations without using any real or sensitive customer information.
+
+## Data Privacy Disclaimer
+
+All data referenced in these queries is synthetic and anonymized to protect privacy. No real customer information is included. Please ensure that, when adapting these queries to your environment, you comply with your institution's data privacy and regulatory policies.
+
+## How to Use the Queries
+
+1. Review each `.sql` file to understand the logic and structure of the queries.
+2. Replace placeholder table names (e.g., `Transaction_data`) with your actual database table names, if different.
+3. Adjust column names if your schema varies from the example.
+4. Execute the queries within your SQL environment connected to your synthetic or test transaction datasets.
+5. Use the results to practice AML risk detection, monitoring, and reporting workflows.
+
+---
+
+Feel free to customize or expand these queries to suit specific jurisdictional AML regulations, risk frameworks, or enterprise policies.
