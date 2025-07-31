@@ -1,6 +1,2 @@
 # AML-Customer-Risk-Profiler-SQL.
-Kindly extract the Zip File which has detailed explanation of the purpose, procedure and objectives of Customer Risk Profiling and Transaction Monitoring using SQL.
-It contains:
-1.) one csv file having synthetic Transaction Data
-2.) four txt files showing the sql queries
-3.) one Read me file with a detailed explanation of the process.
+This project provides a comprehensive set of SQL queries and synthetic data designed to facilitate Anti-Money Laundering (AML) Customer Risk Profiling and Transaction Monitoring. It includes scripts to identify high-risk customers, audit sources of funds and wealth, segment transaction volumes, and analyze geographic exposure risk. The purpose is to support compliance teams and analysts in detecting suspicious activity, prioritizing investigations, and adhering to regulatory requirements using a structured, repeatable SQL-based approach. All sample data is synthetic, ensuring privacy and security for demonstration and testing purposes.
