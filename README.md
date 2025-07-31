@@ -1,5 +1,4 @@
 # AML-Customer-Risk-Profiler-SQL.
-AML SQL queries for transaction monitoring 
 Kindly extract the Zip File which has detailed explanation of the purpose, procedure and objectives of Customer Risk Profiling and Transaction Monitoring using SQL.
 It contains:
 1.) one csv file having synthetic Transaction Data
